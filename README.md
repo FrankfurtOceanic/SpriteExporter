@@ -11,7 +11,7 @@ Here are some examples:
  This was done using a simple particle effect and some post processing.  
  
  ## Character:  
-<img src="animated.gif" width = "100" height = "100">  
+<img src="animated_scaled.gif" width = "400" height = "400">  
  This was achieved with a model and rig as well as some simple materials.  
 
 ## Versatility
